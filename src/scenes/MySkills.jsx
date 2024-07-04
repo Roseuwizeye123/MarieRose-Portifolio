@@ -24,8 +24,8 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          "I'm Uwizeyimana Marie Rose, a Front-end developer with a passion for web designing. constantly seeking opportunities for growth and learning. ,
+           I approach challenges with Ambition and always strive for excellence.
           </p>
         </motion.div>
 
@@ -38,11 +38,11 @@ const MySkills = () => {
               <img
                 alt="skills"
                 className="z-10"
-                src="assets/skills-image.png"
+                src="assets/Screenshot_20240703-145610.jpg"
               />
             </div>
           ) : (
-            <img alt="skills" className="z-10" src="assets/skills-image.png" />
+            <img alt="skills" className="z-10" src="assets/Screenshot_20240703-145610.jpg" />
           )}
         </div>
       </div>
